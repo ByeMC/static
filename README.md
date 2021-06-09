@@ -5,7 +5,7 @@
 
 ## Info
 ### How to use
-
+Go to the [Index](//static.byemc.xyz/index/) 
 ### Links
 
 ### Legal
